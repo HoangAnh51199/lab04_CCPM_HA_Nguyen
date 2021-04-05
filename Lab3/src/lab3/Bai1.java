@@ -88,3 +88,5 @@ public class Bai1 extends javax.swing.JFrame {
     // End of variables declaration//GEN-END:variables
 }
 adadasdsdaasasa
+
+adadsadadadgbfcvbf
